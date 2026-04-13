@@ -1,0 +1,18 @@
+
+.active {
+    font-weight: bold!important;
+}
+
+.slide-inner{
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: darken;
+    background-size: cover;
+}
+
+.header-text{
+    padding-top: 100px;
+}
+
+#about .span{
+    text-align: center;
+}
