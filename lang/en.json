@@ -117,21 +117,22 @@
 "subject":"Subject",
 "department":"Department",
 "choose-department":"Choose the department that interests you",
+"op":"Partners & Clients",
 
-"h6-testimonials":"Testimonials",
+"h6-testimonials":"Our projects",
 "satisfied-customers":"They are satisfied",
 "testimonial-1":"“Donec et nunc massa. Nullam non felis dignissim, dapibus turpis semper, vulputate lorem. Nam volutpat posuere tellus, in porttitor justo interdum nec. Aenean in dapibus risus, in euismod ligula. Aliquam vel scelerisque elit.”",
 "testimonial-2":"“Etiam id ligula risus. Fusce fringilla nisl nunc, nec rutrum lectus cursus nec. In blandit nibh dolor, at rutrum leo accumsan porta. Nullam pulvinar eros porttitor risus condimentum tempus.”",
 "testimonial-3":"“Ut dictum vehicula massa, ac pharetra leo tincidunt eu. Phasellus in tristique magna, ac gravida leo. Integer sed lorem sapien. Ut viverra mauris sed lobortis commodo.”",
-"testimonial-1-position":"CEO of ITS Groupe",
-"testimonial-2-position":"Network Engineer",
-"testimonial-3-position":"Network Technician",
+"testimonial-1-position":"Etiquetage",
+"testimonial-2-position":"broderie",
+"testimonial-3-position":"Flocage",
 
 
 
   "dep-1-title":"Medical Department",
   "dep-2-title":"PPE Department", 
-  "dep-3-title":"Shopping Department",
+  "dep-3-title":"shopping center",
   "what-we-are-title":"What we are",
   "what-we-are-description":"Lorem ipsum possimus assumenda exercitationem, ab voluptate velit consequatur eos, dolorem quae voluptates laborum mollitia! Blanditiis, vero dignissimos hic deserunt facere ipsam obcaecati! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis officiis quas amet in, nisi, magnam dolorem commodi adipisci repudiandae exercitationem dolorum sequi repellat culpa voluptatem tenetur necessitatibus non magni illo?.",
   "what-we-are-button":"Book an appointment",
