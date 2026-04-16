@@ -776,7 +776,7 @@ banner
 .slide-inner .header-text h2 {
   position: relative;
   z-index: 2;
-  font-size: 56px;
+  font-size: 45px;
   color: #fff;
   font-weight: 700;
   opacity: 1;
@@ -1264,8 +1264,8 @@ page heading
 */
 
 .page-heading {
-  background-color: rgba(0, 0, 0, 0.4);
-  background-image: url(../images/home.jpg);
+  background-color: rgba(0, 0, 0, 0.7);
+  background-image: url(../images/home2.jpeg);
   background-blend-mode: darken;
   background-position: center center;
   background-repeat: no-repeat;

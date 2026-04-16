@@ -16,14 +16,15 @@
 
   "slider-1-title": "Faites de la <em>sécurité</em> une priorité. <br> A chaque agent, ses <em>EPI</em>",
   "slider-1-description": "Nous proposons une large gamme d’équipements de protection individuelle adaptés aux différents besoins et budgets. En tant que distributeur de marques connues pour leur qualité, nous offrons des solutions fiables et performantes pour assurer la sécurité de vos équipes au quotidien. Certains modèles peuvent également être personnalisés (broderie & flocage) selon vos demandes.",
-  "slider-2-title": " vos <em>Equipements</em> médicaux <br>&amp; et <em>consommables</em> chez nous",
+  "slider-2-title": " <em>Equipements</em> médicaux <br>&amp; et <em>consommables</em> chez nous",
   "slider-2-description": "Avec ISD, vous bénéficiez de bien plus que des produits de qualité ; vous profitez d'une expérience complète et personnalisée qui soutient votre succès dans la prestation de soins de santé exceptionnels. Notre équipe dédiée est là pour vous accompagner à chaque étape, offrant des conseils d'experts, une assistance rapide et un service client inégalé. Faites confiance à ISD pour être votre partenaire de confiance dans le domaine médical.",
   "slider-3-title": "Un partenaire sérieux<br>&amp; fiable Pour vos <em>Achats</em>",
   "slider-3-description": "Explorez de nouvelles opportunités d'efficacité et d'économies grâce à notre centrale d'achat spécialisée. Notre expertise en approvisionnement, associée à des partenariats solides avec des fournisseurs de confiance, nous permet de vous offrir des solutions d'achat optimisées qui répondent à vos besoins spécifiques. Faites confiance à notre équipe dédiée pour vous aider à naviguer dans le paysage complexe des achats et à maximiser la valeur de chaque transaction.", 
   "mail":"E-mail",
   "phone":"Téléphone", 
   "address":"Adresse",
-  "location":"Avenue Cardinal Emile BIAYENDA à côté de la CCA Brazzaville - République du CONGO",
+  "location":"Avenue du Maréchal Fosh",
+  "location-pn":"Boulevard de Loango, face à BI TOTAL, à côté de clinique Louise-Michel",
   "contact-us":"contactez-nous",
   "leave-us-a-message":"laissez-nous un message",
   "submit-form-button":"s'inscrire",
@@ -123,7 +124,7 @@
   
 
   "h6-testimonials":"Nos projets",
-  "satisfied-customers":"Ils sont satisfaits",
+  "satisfied-customers":"Galérie de projets",
   "testimonial-1":"“Donec et nunc massa. Nullam non felis dignissim, dapibus turpis semper, vulputate lorem. Nam volutpat posuere tellus, in porttitor justo interdum nec. Aenean in dapibus risus, in euismod ligula. Aliquam vel scelerisque elit.”",
   "testimonial-2":"“Etiam id ligula risus. Fusce fringilla nisl nunc, nec rutrum lectus cursus nec. In blandit nibh dolor, at rutrum leo accumsan porta. Nullam pulvinar eros porttitor risus condimentum tempus.”",
   "testimonial-1-position":"Etiquetage",

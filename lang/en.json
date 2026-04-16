@@ -19,7 +19,8 @@
   "mail":"E-mail",
   "phone":"Phone",
   "address":"Address",
-  "location":"Avenue Cardinal Emile BIAYENDA next to CCA Brazzaville - Republic of CONGO",
+  "location":"Maréchal Fosh Avenue",
+  "location-pn":"Boulevard de Loango, opposite BI TOTAL, next to Louise-Michel clinic",
   "contact-us":"contact us",
   "leave-us-a-message":"leave us a message",
   "submit-form-button":"subscribe",
@@ -120,7 +121,7 @@
 "op":"Partners & Clients",
 
 "h6-testimonials":"Our projects",
-"satisfied-customers":"They are satisfied",
+"satisfied-customers":"Gallery of projects",
 "testimonial-1":"“Donec et nunc massa. Nullam non felis dignissim, dapibus turpis semper, vulputate lorem. Nam volutpat posuere tellus, in porttitor justo interdum nec. Aenean in dapibus risus, in euismod ligula. Aliquam vel scelerisque elit.”",
 "testimonial-2":"“Etiam id ligula risus. Fusce fringilla nisl nunc, nec rutrum lectus cursus nec. In blandit nibh dolor, at rutrum leo accumsan porta. Nullam pulvinar eros porttitor risus condimentum tempus.”",
 "testimonial-3":"“Ut dictum vehicula massa, ac pharetra leo tincidunt eu. Phasellus in tristique magna, ac gravida leo. Integer sed lorem sapien. Ut viverra mauris sed lobortis commodo.”",
