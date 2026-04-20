@@ -28,6 +28,7 @@
   "contact-us":"contactez-nous",
   "leave-us-a-message":"laissez-nous un message",
   "submit-form-button":"s'inscrire",
+  "send-btn":"Envoyer",
 
   "services-medkit":"Fourniture & installations d'équipements médicaux",
   "services-medkit-description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem assumenda nulla, accusantium eum temporibus ut sapiente ratione, deserunt delectus vero numquam laboriosam quis obcaecati possimus quisquam? Doloribus, repellendus! Perspiciatis, eaque.",
@@ -45,8 +46,8 @@
 
 
 
-
-  "know-us":"Mieux Nous Connaître",
+  "portofolio":"Galérie",
+  "our-pro":"Nos Réalisations",
   "projet":"Projets",
   "lieu":"Lieux",
   "date":"Date",

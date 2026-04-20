@@ -24,6 +24,7 @@
   "contact-us":"contact us",
   "leave-us-a-message":"leave us a message",
   "submit-form-button":"subscribe",
+  "send-btn":"Send",
 
 
 "services-medkit":"Supply & installation of medical equipment",
@@ -40,9 +41,8 @@
 "services-inventory-description":"what do your teams need to perform in their activity? we can help you !", 
 
 
-
-"know-us":"Get to know us better",
-
+"portofolio":"Gallery",
+"our-pro":"Our Projects",
 "projet":"Project",
 "lieu":"Location",
 "date":"Date",
