@@ -31,17 +31,17 @@
   "send-btn":"Envoyer",
 
   "services-medkit":"Fourniture & installations d'équipements médicaux",
-  "services-medkit-description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem assumenda nulla, accusantium eum temporibus ut sapiente ratione, deserunt delectus vero numquam laboriosam quis obcaecati possimus quisquam? Doloribus, repellendus! Perspiciatis, eaque.",
+  "services-medkit-description":"Spécialisée dans le secteur médical, notre entreprise accompagne les établissements de santé, cliniques, hôpitaux, laboratoires et centres spécialisés dans la réalisation complète de leurs projets. Notre expertise couvre l'ensemble du processus, depuis l'étude et la conception des infrastructures jusqu'à la fourniture, l'installation et la mise en service des équipements.",
   "services-formation":"Formation des vos utilisateurs",
-  "services-formation-description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem assumenda nulla, accusantium eum temporibus ut sapiente ratione, deserunt delectus vero numquam laboriosam quis obcaecati possimus quisquam? Doloribus, repellendus! Perspiciatis, eaque.",
+  "services-formation-description":"Afin de garantir une utilisation optimale et sécurisée des équipements installés, nous assurons la formation des utilisateurs et du personnel technique. Nos sessions de formation sont adaptées aux besoins spécifiques de chaque structure et permettent aux participants de maîtriser le fonctionnement, l'entretien de base et les bonnes pratiques d'utilisation des équipements. Notre objectif est de renforcer les compétences des équipes afin d'assurer une exploitation efficace, durable et conforme aux recommandations des fabricants.",
   "services-maintenance":"Maintenance",
-  "services-maintenance-description":"Nous offrons un service de maintenance régulier pour garantir le bon fonctionnement de vos équipements.",
+  "services-maintenance-description":"Nous assurons la maintenance préventive et corrective des équipements afin de garantir leur performance, leur fiabilité et leur longévité. Nos équipes techniques interviennent rapidement pour effectuer les contrôles, les réparations et les opérations d'entretien nécessaires, minimisant ainsi les interruptions d'activité et assurant la continuité des services. <br> <br>",
   "services-consumables":"Fourniture de divers consommables et réactifs",
-  "services-consumables-description":"vos besoins en consommables et réactifs, trouvent satisfaction chez nous.",
+  "services-consumables-description":"Nous assurons la fourniture d'une large gamme de consommables et de réactifs destinés aux établissements de santé, laboratoires et centres d'analyse. En tant que représentants officiels de Sysmex et de Roche Diagnostics, nous mettons à disposition des produits certifiés répondant aux plus hauts standards de qualité. Nous garantissons ainsi la fiabilité des analyses, la sécurité des utilisateurs et la continuité des activités de nos clients grâce à un approvisionnement régulier et un accompagnement professionnel. <br> <br>",
   "services-equipment":"Distribution de divers Equipements de sécurité (EPI)",
-  "services-equipment-description":"Nous offrons une distribution rapide et efficace de divers équipements de protection individuelle.",
+  "services-equipment-description":"Nous assurons la distribution d'une large gamme d'Équipements de Protection Individuelle (EPI) destinés à garantir la sécurité des professionnels dans les secteurs de la santé, de l'industrie, du BTP et des services. En tant que distributeur de marques de référence telles que Portwest, Singer Safety et Honeywell, nous proposons des équipements fiables et conformes aux normes internationales. Notre offre comprend notamment des gants, masques, lunettes de protection, casques, chaussures de sécurité, vêtements de travail et autres solutions adaptées aux exigences de chaque environnement professionnel.",
   "services-inventory":"Approvisionnement rapide en équipements divers.",
-  "services-inventory-description":"de quoi vos équipes ont-elles besoin pour performez dans leur activité ?  nous pouvons vous aider !",
+  "services-inventory-description":"Notre centrale d'achats accompagne tous types de clients, qu'il s'agisse d'entreprises, d'administrations, d'organisations, d'établissements de santé ou de particuliers, dans l'acquisition de matériels, équipements, fournitures et consommables de toute nature. Grâce à notre vaste réseau de fournisseurs et de partenaires, nous recherchons, sélectionnons et livrons les produits les mieux adaptés aux besoins de nos clients, tout en garantissant qualité, compétitivité et respect des délais.",
 
 
 
@@ -70,9 +70,10 @@
   "medical-2-date":"Dec. 2025 <br>  <br>",
   "medical-3-date":"Dec. 2022 <br>  <br>",
   "medical-4-date":"Dec. 2023 <br>  <br>",
-  "medical-1-lieu":"CHU Brazzaville <br>  <br>",
+  "medical-1-lieu":"CHU Brazzaville",
   "medical-2-lieu":"Pointe Noire <br>  <br>",
   "medical-5-lieu":"Hôpital Militaire",
+  "medical-6-lieu":"Total Congo",
   "medical-3-lieu":"Hopital d'Owando, <br> CHU Brazzaville",
   "medical-4-lieu":"Hopital Général de Dolisie",
   "equipement-1":"Casques <br>  <br>",
@@ -100,7 +101,7 @@
   "isd-medik":"ISD dans le domaine médical",
   "isd-medik-description":"ISD est un acteur majeur du secteur médical au Congo, proposant une vaste gamme d'équipements et de consommables médicaux. Nous nous engageons à fournir des produits et services de haute qualité afin de répondre aux besoins des professionnels et des institutions de santé congolaises. Notre équipe d'experts met tout en œuvre pour garantir à nos clients les meilleures solutions pour leurs besoins médicaux, qu'il s'agisse d'hôpitaux, de cliniques ou d'autres établissements de soins.",
   "isd-epi":"ISD dans le domaine des EPI",
-  "isd-epi-description":"ISD est un fournisseur majeur d'équipements de protection individuelle (EPI) au Congo, offrant une vaste gamme de produits de haute qualité pour garantir la sécurité et le bien-être des personnes dans divers secteurs. Nous nous engageons à fournir des solutions EPI fiables et efficaces pour répondre aux besoins de nos clients, qu'il s'agisse de professionnels de la santé, de travailleurs industriels ou de toute personne nécessitant des équipements de protection. Notre équipe est dédiée à offrir un service et un soutien exceptionnels afin de garantir à nos clients l'accès aux meilleurs EPI disponibles.",
+  "isd-epi-description":"Grâce à notre service de broderie intégré, nous proposons la personnalisation de vêtements professionnels et d'équipements de protection aux couleurs et à l'image de nos clients. Au fil des années, nous avons réalisé de nombreux projets pour des entreprises, administrations et organisations de premier plan, en fournissant des tenues de travail, uniformes et EPI personnalisés alliant qualité, sécurité et professionnalisme. Notre savoir-faire nous permet de répondre efficacement aux besoins spécifiques de chaque client, quel que soit son secteur d'activité.",
   "isd-achat":"ISD dans le domaine de l'achat",
   "isd-achat-description":"ISD est un fournisseur fiable et efficace dans le domaine de l'achat, offrant une large gamme de produits et services pour répondre aux besoins de nos clients. Nous nous engageons à fournir des solutions d'achat de haute qualité à des prix compétitifs, en mettant l'accent sur la satisfaction client et l'efficacité opérationnelle.",
   
@@ -135,13 +136,17 @@
   "testimonial-4":"“Ut dictum vehicula massa, ac pharetra leo tincidunt eu. Phasellus in tristique magna, ac gravida leo. Integer sed lorem sapien. Ut viverra mauris sed lobortis commodo.”",
 
 
-
  "dep-1-title":"Départements médical",
  "dep-2-title":"Département EPI",
  "dep-3-title":"Central d'Achat",
+"dep-1-description":"Notre département médical est spécialisé dans la fourniture, l'installation et la maintenance d'équipements médicaux et de laboratoire, ainsi que dans l'approvisionnement en consommables et réactifs. Nous accompagnons les établissements de santé, laboratoires et centres de diagnostic en proposant des solutions fiables, performantes et conformes aux normes internationales. Grâce à notre expertise et à nos partenariats avec des leaders du secteur tels que Sysmex et Roche Diagnostics, nous contribuons à garantir la qualité des analyses, l'efficacité des équipements et la continuité des services de santé.",
+"dep-2-description":"Notre département EPI est dédié à la fourniture d'Équipements de Protection Individuelle destinés à garantir la sécurité et la protection des professionnels dans tous les secteurs d'activité. Nous proposons une large gamme de produits de qualité, incluant des gants, masques, lunettes, casques, chaussures de sécurité et vêtements de protection. Grâce à nos partenariats avec des marques de référence telles que Portwest, Singer Safety et Honeywell, nous offrons des solutions conformes aux normes internationales les plus exigeantes.",
+"dep-3-description":"Notre département Centrale d’Achats accompagne les entreprises, administrations, organisations et particuliers dans l’acquisition de tous types de matériels, équipements, fournitures et consommables. Grâce à un réseau étendu de fournisseurs et de partenaires internationaux, nous sommes en mesure de rechercher, sélectionner et fournir les produits les mieux adaptés aux besoins de nos clients, tout en garantissant qualité, compétitivité et respect des délais. Notre mission est de simplifier les processus d’approvisionnement en offrant un service fiable, efficace et personnalisé.",
+
+
 
   "what-we-are-title":"Ce que nous sommes",
-  "what-we-are-description":"Lorem ipsum possimus assumenda exercitationem, ab voluptate velit consequatur eos, dolorem quae voluptates laborum mollitia! Blanditiis, vero dignissimos hic deserunt facere ipsam obcaecati! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis officiis quas amet in, nisi, magnam dolorem commodi adipisci repudiandae exercitationem dolorum sequi repellat culpa voluptatem tenetur necessitatibus non magni illo?.",
+  "what-we-are-description":"Depuis 2007, nous mettons notre expertise au service des professionnels, des institutions et des organisations en proposant des solutions fiables et adaptées à leurs besoins. Spécialisés dans le secteur médical, la fourniture d'Équipements de Protection Individuelle (EPI) et les services de centrale d'achats, nous accompagnons nos clients avec sérieux, professionnalisme et engagement. Grâce à notre expérience et à notre réseau de partenaires de confiance, nous offrons des produits et services de qualité tout en garantissant un accompagnement personnalisé et une satisfaction durable.",
   "what-we-are-button":"Prendre rendez-vous",
   "simple-cta-button-1":"Savoir plus",
   "simple-cta-button-2":"Contactez-nous",
@@ -149,11 +154,13 @@
   "annonces":"A la une",
   "recent-achievements":"nos récentes réalisations",
   "achievements-title-1":"Installation d’un Scanner 32B Neusoft",
-  "achievements-description-1":"Etiam id ligula risus. Fusce fringilla nisl nunc, nec rutrum lectus cursus nec. In blandit nibh dolor, at rutrum leo accumsan porta. Nullam pulvinar eros porttitor risus condimentum tempus.",
+  "achievements-description-1":"À la fin de l'année 2025, notre entreprise a réalisé avec succès l'installation d'un scanner Neusoft 32B CT Scanner au sein de la Clinique Guénin. Ce projet comprenait également la mise en service d'un reprographe FUJIFILM DRYPIX EDGE, d'un amplificateur de brillance Perlove C-Arm ainsi que d'une colonne de cœlioscopie moderne. Cette réalisation témoigne de notre expertise dans la fourniture et l'installation d'équipements médicaux de haute technologie au service des professionnels de santé.",
   "achievements-title-2":"Installation des tables de radiologie CANON; OS, POUMON et table TELECOMMANDE",
-  "achievements-description-2":"Fusce fringilla nisl nunc, nec rutrum lectus cursus nec. In blandit nibh dolor, at rutrum leo accumsan porta. Nullam pulvinar eros porttitor risus condimentum tempus.",
+  "achievements-description-2":"Courant 2025, notre entreprise a réalisé l’installation d’une table de radiologie os-poumon de marque DMS Imaging au sein du CMS de TotalEnergies EP Congo. Cette installation s’inscrit dans notre engagement à fournir aux structures de santé des équipements d’imagerie médicale performants et adaptés aux besoins de diagnostic, tout en garantissant une mise en service conforme aux exigences techniques et opérationnelles.",
   "achievements-title-3":"réhabilitation Laboratoire, Buanderie ",
-  "achievements-description-3":"Pellentesque ipsum elit, congue a sapien laoreet, pellentesque ultricies risus. Nulla facilisi. Mauris vitae lacinia magna. Nam euismod sapien sit amet elementum blandit. Nulla non placerat neque.",
+  "achievements-description-3":"Au début de l'année 2025, notre entreprise a réalisé l'installation de deux tables de radiologie de marque Canon Medical à l'Hôpital Militaire de Brazzaville. Ce projet a également inclus la mise en service d'un reprographe FUJIFILM destiné à optimiser la gestion et l'impression des images médicales. Cette réalisation illustre notre capacité à accompagner les établissements de santé dans la modernisation de leurs infrastructures d'imagerie médicale grâce à des équipements performants et fiables.",
+  "achievements-title-4":"CHU DE BRAZZAVILLE",
+  "achievements-description-4":"En 2023, notre entreprise a mené à bien la réhabilitation complète des salles dédiées au scanner et à l’IRM du Centre Hospitalier Universitaire de Brazzaville. Ce projet d’envergure a inclus la fourniture et l’installation d’un scanner 80 barrettes de marque Canon Medical ainsi que d’une IRM 1,5 Tesla de la même marque. Nous avons également assuré la mise en place de l’ensemble des équipements et infrastructures nécessaires à leur fonctionnement optimal, offrant ainsi au CHU des solutions d’imagerie médicale modernes, performantes et conformes aux standards internationaux.",
 
 
   "copyright":"Copyright © 2026 <strong class=\"text-success\">ISD</strong>, Tous droits réservés. <br>Conçu par <a title=\"Informations Technologies Services\" rel=\"sponsored\" href=\"https://its-groupe.tech\" target=\"_blank\">ITS Groupe</a>"
