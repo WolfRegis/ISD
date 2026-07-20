@@ -3,6 +3,11 @@
     font-weight: bold!important;
 }
 
+#cta{
+  margin-bottom: -150px!important;
+}
+
+
 .slide-inner{
     background-color: rgba(0, 0, 0, 0.75);
     background-blend-mode: darken;

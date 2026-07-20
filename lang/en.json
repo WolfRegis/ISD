@@ -119,13 +119,15 @@
   "op":"partners & clients",
 
   "h6-testimonials":"Our projects",
+  "h6-testimonials-true":"Testimonials",
+"h6-testimonials-desc":"they are satisfied",
   "satisfied-customers":"Project Gallery",
-  "testimonial-1":"Donec et nunc massa. Nullam non felis dignissim, dapibus turpis semper, vulputate lorem. Nam volutpat posuere tellus, in porttitor justo interdum nec. Aenean in dapibus risus, in euismod ligula. Aliquam vel scelerisque elit.",
-  "testimonial-2":"Etiam id ligula risus. Fusce fringilla nisl nunc, nec rutrum lectus cursus nec. In blandit nibh dolor, at rutrum leo accumsan porta. Nullam pulvinar eros porttitor risus condimentum tempus.",
-  "testimonial-1-position":"Labeling",
-  "testimonial-2-position":"Embroidery",
-  "testimonial-3":"Ut dictum vehicula massa, ac pharetra leo tincidunt eu. Phasellus in tristique magna, ac gravida leo. Integer sed lorem sapien. Ut viverra mauris sed lobortis commodo.",
-  "testimonial-3-position":"Printing",
+  "testimonial-1":"“ISD is our trusted supplier for our PPE in Pointe-Noire. The equipment received is certified, of high quality and perfectly suited to the safety of our teams in the field.”",
+  "testimonial-2":"“ISD is a serious and reliable partner for our establishment. The installation of medical equipment and the tailor-made training of our staff were perfect.”",
+  "testimonial-1-position":"PPE",
+  "testimonial-2-position":"Medical",
+  "testimonial-3":"“Thanks to ISD's purchasing center, we are making significant savings. The supply of our industrial equipment is fast, reliable and perfectly tailored to our specific needs.”",
+  "testimonial-3-position":"Purchasing Center",
   "testimonial-4":"Ut dictum vehicula massa, ac pharetra leo tincidunt eu. Phasellus in tristique magna, ac gravida leo. Integer sed lorem sapien. Ut viverra mauris sed lobortis commodo.",
 
   "dep-1-title":"Medical Department",
@@ -151,6 +153,12 @@
   "achievements-description-3":"At the beginning of 2025, our company completed the installation of two Canon Medical brand radiology tables at the Military Hospital of Brazzaville. This project also included the commissioning of a FUJIFILM reprographer designed to optimize the management and printing of medical images. This achievement illustrates our ability to support healthcare facilities in modernizing their medical imaging infrastructure with high-performance and reliable equipment.",
   "achievements-title-4":"CHU DE BRAZZAVILLE",
   "achievements-description-4":"In 2023, our company successfully completed the full rehabilitation of the CT scanner and MRI rooms at the Brazzaville University Hospital. This large-scale project included the supply and installation of an 80-slice Canon Medical CT scanner and a 1.5 Tesla MRI of the same brand. We also ensured the installation of all equipment and infrastructure necessary for their optimal operation, providing the CHU with modern, high-performance medical imaging solutions compliant with international standards.",
-
+  "desc-brod-1":"Custom details: meticulous customization executed according to your exact graphic requirements...",
+  "desc-brod-2":"High-definition embroidery: a sharp and precise marking to enhance your company's logo...",
+  "desc-brod-3":"Industrial resistance: high-quality threads designed to withstand intensive and repeated washing...",
+  "desc-brod-4":"Adapted textiles: technical expertise on all types of professional and safety clothing...",
+  "desc-brod-5":"Customized PPE: combine the safety of your agents with a polished visual identity...",
+  "desc-brod-6":"Premium finish: elegant customization that enhances the professional image of your teams...",
+  
   "copyright":"Copyright © 2026 <strong class=\"text-success\">ISD</strong>, All rights reserved. <br>Designed by <a title=\"Informations Technologies Services\" rel=\"sponsored\" href=\"https://its-groupe.tech\" target=\"_blank\">ITS Groupe</a>"
 }

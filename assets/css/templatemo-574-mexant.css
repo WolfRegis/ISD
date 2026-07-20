@@ -365,7 +365,9 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #F3DB4F
+  color: #F3DB4F;
+  font-weight: bold!important;
+
 
 
 ;
@@ -373,7 +375,8 @@ header
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #F3DB4F
+  color: #F3DB4F;
+  font-weight: bold!important;
 
 
 ;
